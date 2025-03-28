@@ -1,0 +1,1 @@
+Este documento contém uma nova funcionalidade para o repositório.
